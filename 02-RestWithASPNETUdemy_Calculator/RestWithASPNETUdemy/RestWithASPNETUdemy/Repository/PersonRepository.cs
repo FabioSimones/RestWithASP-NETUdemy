@@ -1,17 +1,18 @@
 ﻿using RestWithASPNETUdemy.Model;
 using RestWithASPNETUdemy.Model.Context;
-using RestWithASPNETUdemy.Services.Interfaces;
+using RestWithASPNETUdemy.Business.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using RestWithASPNETUdemy.Repository.Interfaces;
 
-namespace RestWithASPNETUdemy.Services
+namespace RestWithASPNETUdemy.Repository
 {
-    public class PersonService : IPersonService
+    public class PersonRepository : IPersonRepository
     {
         private MySqlContext _context;
 
-        public PersonService(MySqlContext context)
+        public PersonRepository(MySqlContext context)
         {
             _context = context;
         }
@@ -81,7 +82,7 @@ namespace RestWithASPNETUdemy.Services
 
         }
 
-        private bool Exists(long id)
+        public bool Exists(long id)
         {
             return _context.Persons.Any(p => p.Id.Equals(id));
         }
