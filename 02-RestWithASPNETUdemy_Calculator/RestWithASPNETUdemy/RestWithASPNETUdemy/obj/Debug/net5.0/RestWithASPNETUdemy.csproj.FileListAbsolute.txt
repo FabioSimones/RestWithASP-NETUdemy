@@ -34,3 +34,5 @@ C:\Users\fabin\Documents\Estudos C#\C# - API\RestWithASP-NETUdemy\RestWithASP-NE
 C:\Users\fabin\Documents\Estudos C#\C# - API\RestWithASP-NETUdemy\RestWithASP-NETUdemy\02-RestWithASPNETUdemy_Calculator\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\fabin\Documents\Estudos C#\C# - API\RestWithASP-NETUdemy\RestWithASP-NETUdemy\02-RestWithASPNETUdemy_Calculator\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\fabin\Documents\Estudos C#\C# - API\RestWithASP-NETUdemy\RestWithASP-NETUdemy\02-RestWithASPNETUdemy_Calculator\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net5.0\RestWith.1EB3D30E.Up2Date
+C:\Users\fabin\Documents\Estudos C#\C# - API\RestWithASP-NETUdemy\RestWithASP-NETUdemy\02-RestWithASPNETUdemy_Calculator\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\fabin\Documents\Estudos C#\C# - API\RestWithASP-NETUdemy\RestWithASP-NETUdemy\02-RestWithASPNETUdemy_Calculator\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net5.0\RestWithASPNETUdemy.MvcApplicationPartsAssemblyInfo.cs

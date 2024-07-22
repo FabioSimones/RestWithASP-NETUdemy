@@ -31,6 +31,8 @@ namespace RestWithASPNETUdemy
                               options.UseMySql(mySqlConnection,
                                 ServerVersion.AutoDetect(mySqlConnection)));
 
+            services.AddApiVersioning();
+
             //Dependency injection
             services.AddScoped<IPersonService, PersonService>();
         }
